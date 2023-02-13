@@ -17,10 +17,10 @@
  
 
 
-###Tools🔧 &nbsp;
+### Tools🔧 &nbsp;
 ![Sublime text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-flat-badge&logo=sublime-text&logoColor=important)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-flat&logo=visual-studio-code&logoColor=white)
  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-###os💻 &nbsp;
+### os💻 &nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-round-badge&logo=windows&logoColor=white)
 <br/>
