@@ -1,5 +1,4 @@
 ## Hello 👋 This is Muhdbash.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhdbash3&label=Views&color=blue&style=plastic" /> </p>
 
 ### 👨🏻‍💻 &nbsp;About Me 
 - 🤔 &nbsp; Curious over anything Tech
@@ -24,3 +23,5 @@
 ### os💻 &nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-round-badge&logo=windows&logoColor=white)
 <br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhdbash3&label=Views&color=blue&style=plastic" /> </p>
